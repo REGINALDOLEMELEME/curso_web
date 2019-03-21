@@ -1,16 +1,12 @@
 body{
-
     font-family: Arial, Helvetica, sans-serif;
-
 }
 
 fieldset{
-
     padding: 1em;
     border: 1px solid #ccc;
     background: #f8f8f8;
     margin: 1em 0;
-
 }
 
 legend{
@@ -26,15 +22,14 @@ label{
 
 }
 
-input [type="text"]{
-
-    width: 20em;
-
-}
-
 textarea{
 
     width:50em;
     height: 10em; 
 }
+
+input [type="text"] {
+    width: 20em;
+}
+
 
